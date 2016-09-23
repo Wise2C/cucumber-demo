@@ -1,8 +1,8 @@
-package com.zhaopin.advertisement.bdd.steps;
+package com.wise2c.bdd.steps;
 
 
-import com.zhaopin.advertisement.bdd.WebDriverUtils;
-import com.zhaopin.advertisement.bdd.common.UserActions;
+import com.wise2c.bdd.WebDriverUtils;
+import com.wise2c.bdd.common.UserActions;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.en.Given;

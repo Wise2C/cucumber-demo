@@ -1,4 +1,4 @@
-package com.zhaopin.advertisement.bdd;
+package com.wise2c.bdd;
 
 
 import org.openqa.selenium.WebDriver;

@@ -1,8 +1,6 @@
-package com.zhaopin.advertisement.bdd;
+package com.wise2c.bdd;
 
 import cucumber.api.CucumberOptions;
-import cucumber.api.Scenario;
-import cucumber.api.java.After;
 import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;

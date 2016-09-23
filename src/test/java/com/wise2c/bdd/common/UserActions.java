@@ -1,8 +1,7 @@
-package com.zhaopin.advertisement.bdd.common;
+package com.wise2c.bdd.common;
 
 
-import com.zhaopin.advertisement.bdd.WebDriverUtils;
-import org.openqa.selenium.By;
+import com.wise2c.bdd.WebDriverUtils;
 import org.openqa.selenium.WebDriver;
 
 public class UserActions {
